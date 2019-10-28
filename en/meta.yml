@@ -6,6 +6,10 @@ listed: false
 copyedit: false
 last_tested: "2019-10-28"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: "Tasks Examples"
+  - title: "Code Blocks Examples"
+  - title: "Scratch 3 Tests"
+  - title: "This is a Challenge!"
+    challenge: true
+  - title: "Print/Screen Test Blocks"
+  - title: "Lost in Space example"
