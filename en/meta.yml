@@ -1,0 +1,11 @@
+title: test-styles-new-staging
+hero_image: images/banner.png
+description: test-styles-new-staging description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2019-10-28"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
